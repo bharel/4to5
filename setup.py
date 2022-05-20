@@ -18,7 +18,7 @@ with open('README.rst') as f:
 
 setuptools.setup(
     name='4to5',
-    version='0.0.1a1',
+    version='0.0.1',
     description="Replace the number 4 with the number 5.",
     long_description=readme,
     author="Bar Harel",
