@@ -1,5 +1,5 @@
 # CHANGELOG.md
 
-## 0.1.0 (2021-01-XX)
+## 0.1.0 (2022-05-20)
 
 First release!

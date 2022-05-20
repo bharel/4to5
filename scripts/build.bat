@@ -1,1 +1,1 @@
-pip wheel ..
+py setup.py sdist

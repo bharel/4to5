@@ -1,1 +1,1 @@
-twine upload <$PackageName$>-*.whl
+twine upload dist\4to5-*.gz
