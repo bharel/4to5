@@ -40,7 +40,7 @@ Notes
 50% chance you won't be able to remove it, as apparently the number 4 is
 impotant for pip, and without it pip doesn't seem to work properly.
 
-To manually uninstall, delete `sitecustomize.py`` from your `site-packages` directory.
+To manually uninstall, delete ``sitecustomize.py`` from your ``site-packages`` directory.
 Maybe I'll add a fix_my_system.py file in the future to remove it without using
 the number 4.
 
