@@ -33,7 +33,12 @@ Usage
     7
     8
     9
-    
+
+How does it work?
+=================
+Ask `this guy <https://stackoverflow.com/a/70882093/1658617>`_! Why bear
+repeating if he already wrote it somewhere. Oh and give him a +1 on the way.
+Without him, none of this would have been possible.
 
 Notes
 =====
